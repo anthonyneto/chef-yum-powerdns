@@ -1,5 +1,4 @@
 # yum-powerdns Cookbook
-# yum-elasticsearch Cookbook
 [![Build Status](https://travis-ci.org/anthonyneto/chef-yum-powerdns.svg?branch=master)](http://travis-ci.org/anthonyneto/chef-yum-powerdns) [![Cookbook Version](https://img.shields.io/cookbook/v/yum-powerdns.svg)](https://supermarket.chef.io/cookbooks/yum-powerdns)
 
 ## Requirements
