@@ -3,7 +3,7 @@ maintainer 'Anthony Neto'
 maintainer_email 'anthony.neto@gmail.com'
 license 'Apache 2.0'
 description 'Installs and configures the PowerDNS yum repository'
-version '0.1.0'
+version '0.1.1'
 
 source_url 'https://github.com/anthonyneto/chef-yum-powerdns'
 issues_url 'https://github.com/anthonyneto/chef-yum-powerdns/issues'
