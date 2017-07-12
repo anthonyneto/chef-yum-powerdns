@@ -1,3 +1,6 @@
+## v0.1.3
+- Fixing test, and switching to stable branch
+
 ## v0.1.2
 - Removing bunk copy
 

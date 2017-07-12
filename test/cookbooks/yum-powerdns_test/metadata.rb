@@ -3,6 +3,6 @@ maintainer 'Anthony Neto'
 maintainer_email 'anthony.neto@gmail.com'
 license 'Apache 2.0'
 description 'Installs/Configures yum-powerdns_test'
-version '0.1.0'
+version '0.1.3'
 
 depends 'yum-powerdns'
